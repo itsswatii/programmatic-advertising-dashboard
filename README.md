@@ -46,5 +46,9 @@ python notebooks/advertising_analysis.py
 ```
 
 ## Results & Insights
-> To be updated after analysis completion.
+- **Total Impressions:** 1.5B+ across social and search campaigns
+- **Total Ad Spend:** $30.6M with **Total Revenue:** $42.9M generated
+- **Overall ROAS:** 1.41 — revenue exceeded ad spend across all campaigns
+- **Overall CTR:** 0.96% with **CPC:** $11.27
+- **Total Orders:** 8,043 with an overall conversion rate of 0.28%
 
